@@ -1,2 +1,4 @@
 # Future-Client-
-Türkiye Sohbet ÇEKILIŞ
+anlam ver iste
+Future Client İçin 
+.gitignore git
